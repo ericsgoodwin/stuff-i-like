@@ -17,6 +17,7 @@
 [Daniel Bourke - learn PyTorch in a day (literally)](https://www.youtube.com/watch?v=Z_ikDlimN6A&t)
 
 [University of Utah Intro To Data Science Course](https://datasciencecourse.net/) <- Took this in person, but the materials are online for free!
+
 [SAMY-ER / Multi-View Image Classification](https://github.com/SAMY-ER/Multi-View-Image-Classification)
 
 ## Misc
