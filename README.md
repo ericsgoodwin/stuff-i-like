@@ -11,6 +11,9 @@
 
 [What is the difference between Step In, Step Out, and Step Over?](https://stackoverflow.com/questions/52368009/what-is-the-difference-between-step-in-step-out-and-step-over)
 
+## Jupyter
+[A gallery of Jupyter Notebooks with lots of examples for various applications](https://github.com/jupyter/jupyter/wiki)
+
 ## Data science
 [Ageron's hands-on machine learning (tensorflow) tutorials](https://github.com/ageron/handson-ml2)
 
