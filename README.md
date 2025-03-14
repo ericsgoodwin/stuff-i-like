@@ -28,6 +28,8 @@
 
 [A big list of github-based portfolios](https://github.com/emmabostian/developer-portfolios)
 
+[Joshua Fluke: How to Create & Host a Portfolio in 10 minutes with Github pages!](https://www.youtube.com/watch?v=u-RLu_8kwA0) <- Used this to build my portfolio website. 
+
 ## SQL
 [Ben-N93: SQL tips and tricks](https://github.com/ben-n93/SQL-tips-and-tricks)
 
